@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rajeshveluguri
 - 👀 I’m interested in Data Analysis and generating Insights.
-- 🌱 I’m currently doing my PGP in AI / ML
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Completed PGP in AI / ML from IIT Guwahati
 - 📫 How to reach me rajeshveluguri@gmail.com
 - 😄 Pronouns: He / Him
   
